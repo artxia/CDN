@@ -1,0 +1,23 @@
+# NAME: Spark
+
+payload:
+  - DOMAIN-SUFFIX,imap.gmail.com
+  - DOMAIN-SUFFIX,imap.yandex.com
+  - DOMAIN-SUFFIX,imap.qq.com
+  - DOMAIN-SUFFIX,imap-mail.outlook.com
+  - DOMAIN-SUFFIX,imap.mail.me.com
+  - DOMAIN-SUFFIX,app.smartmailcloud.com
+  - DOMAIN-KEYWORD,gmail
+
+## live.com
+  - IP-CIDR,20.190.144.0/24
+  - IP-CIDR,20.190.148.162
+  - IP-CIDR,40.126.16.166
+
+
+#  - DOMAIN-KEYWORD,telegram
+#  - IP-CIDR,109.239.140.0/24
+#  - IP-CIDR,149.154.160.0/20
+#  - PROCESS-NAME,nekox.messenger
+#  - PROCESS-NAME,org.telegram.messenger
+#  - PROCESS-NAME,telegram.exe

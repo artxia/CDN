@@ -1,0 +1,25 @@
+# NAME: Default
+
+payload:
+  - '265.com'
+  - '2mdn-cn.net'
+  - '+.0.zone'
+  - '+.00.net'
+  - 'ru-ttk-1.edu.berlin'
+  - 'bwg-500m.edu.berlin'
+  - '+.edu.berlin'
+  - DOMAIN-SUFFIX,edu.berlin
+
+  - IP-CIDR,154.17.231.24/20
+  - IP-CIDR,46.203.125.154/20
+  - IP-CIDR,23.165.104.107/20
+  - IP-CIDR,154.64.240.76/20
+  - IP-CIDR,141.98.199.213
+#  - DOMAIN-KEYWORD,telegram
+#  - DOMAIN-SUFFIX,byspotify.com
+#  - DOMAIN,iacc.qq.com
+#  - IP-CIDR,109.239.140.0/24
+#  - IP-CIDR,149.154.160.0/20
+#  - PROCESS-NAME,nekox.messenger
+#  - PROCESS-NAME,org.telegram.messenger
+#  - PROCESS-NAME,telegram.exe

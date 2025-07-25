@@ -1,0 +1,19 @@
+# NAME: Default
+
+payload:
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,www.notion.so
+  - DOMAIN-KEYWORD,notion
+
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,www.v2ex.com
+  - DOMAIN-SUFFIX,imagility.io
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,you.com
+  - DOMAIN-SUFFIX,www.you.com
+#  - DOMAIN-KEYWORD,telegram
+#  - IP-CIDR,109.239.140.0/24
+#  - IP-CIDR,149.154.160.0/20
+#  - PROCESS-NAME,nekox.messenger
+#  - PROCESS-NAME,org.telegram.messenger
+#  - PROCESS-NAME,telegram.exe
