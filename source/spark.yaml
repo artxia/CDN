@@ -3,7 +3,7 @@
 payload:
   - DOMAIN-SUFFIX,imap.gmail.com
   - DOMAIN-SUFFIX,imap.yandex.com
-  - DOMAIN-SUFFIX,imap.qq.com
+  # - DOMAIN-SUFFIX,imap.qq.com
   - DOMAIN-SUFFIX,imap-mail.outlook.com
   - DOMAIN-SUFFIX,imap.mail.me.com
   - DOMAIN-SUFFIX,app.smartmailcloud.com
