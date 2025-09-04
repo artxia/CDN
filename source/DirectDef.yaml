@@ -9,6 +9,7 @@ payload:
   - 'bwg-500m.edu.berlin'
   - '+.edu.berlin'
   - DOMAIN-SUFFIX,edu.berlin
+  - DOMAIN-SUFFIX,chuanqi.proxy2world.com
 
   - IP-CIDR,154.17.231.24/20
   - IP-CIDR,46.203.125.154/20
