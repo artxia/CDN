@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,imap-mail.outlook.com
   - DOMAIN-SUFFIX,imap.mail.me.com
   - DOMAIN-SUFFIX,app.smartmailcloud.com
+  - DOMAIN-SUFFIX,mail.linux.do
   - DOMAIN-KEYWORD,gmail
 
 ## live.com
