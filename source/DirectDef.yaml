@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,edu.berlin
   - '+.freemodel.dev'
   - '+.oops.asia'
+  - '+.chybenzun.top'
 
   - IP-CIDR,154.17.231.24/20
   - IP-CIDR,154.12.51.165/20
