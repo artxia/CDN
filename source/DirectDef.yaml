@@ -1,17 +1,16 @@
 # NAME: Default
 
 payload:
-  - '265.com'
-  - '2mdn-cn.net'
-  - '+.0.zone'
-  - '+.00.net'
-  - 'ru-ttk-1.edu.berlin'
-  - 'bwg-500m.edu.berlin'
-  - '+.edu.berlin'
+  - DOMAIN-SUFFIX,265.com
+  - DOMAIN-SUFFIX,2mdn-cn.net
+  - DOMAIN-SUFFIX,0.zone
+  - DOMAIN-SUFFIX,00.net
+  - DOMAIN,ru-ttk-1.edu.berlin
+  - DOMAIN,bwg-500m.edu.berlin
   - DOMAIN-SUFFIX,edu.berlin
-  - DOMAIN-SUFFIX,freemodel.dev'
-  - DOMAIN-SUFFIX,oops.asia'
-  - DOMAIN-SUFFIX,chybenzun.top'
+  - DOMAIN-SUFFIX,freemodel.dev
+  - DOMAIN-SUFFIX,oops.asia
+  - DOMAIN-SUFFIX,chybenzun.top
 
   - IP-CIDR,154.17.231.24/20
   - IP-CIDR,154.12.51.165/20
