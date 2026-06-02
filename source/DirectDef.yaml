@@ -9,6 +9,8 @@ payload:
   - 'bwg-500m.edu.berlin'
   - '+.edu.berlin'
   - DOMAIN-SUFFIX,edu.berlin
+  - '+.freemodel.dev'
+  - '+.oops.asia'
 
   - IP-CIDR,154.17.231.24/20
   - IP-CIDR,154.12.51.165/20
