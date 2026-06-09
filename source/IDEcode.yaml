@@ -27,4 +27,4 @@ payload:
 # textnow
   - DOMAIN-SUFFIX,textnow.com
 # linuxdo
-  - DOMAIN-SUFFIX,cdk.linux.do
+#  - DOMAIN-SUFFIX,cdk.linux.do
