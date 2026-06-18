@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,api.allright.cloud
   - DOMAIN-SUFFIX,api.2020111.xyz
   - DOMAIN-SUFFIX,live.997269.xyz
-  - DOMAIN-SUFFIX,credit.linux.do
 
   - IP-CIDR,154.17.231.24/20
   - IP-CIDR,154.12.51.165/20
