@@ -29,3 +29,5 @@ payload:
 # linuxdo
 #  - DOMAIN-SUFFIX,cdk.linux.do
 #  - DOMAIN-SUFFIX,credit.linux.do
+# iptv
+  - DOMAIN-SUFFIX,garyshare.sharewithyou.dpdns.org
