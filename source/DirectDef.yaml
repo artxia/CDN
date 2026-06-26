@@ -27,6 +27,7 @@ payload:
   - IP-CIDR,154.64.240.76/20
   - IP-CIDR,194.34.254.109/20
   - IP-CIDR,64.64.239.147/32
+  - IP-CIDR,141.98.199.213/32
 #  - DOMAIN-KEYWORD,telegram
 #  - DOMAIN-SUFFIX,byspotify.com
 #  - DOMAIN,iacc.qq.com
