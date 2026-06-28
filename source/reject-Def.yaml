@@ -1,7 +1,7 @@
 # NAME: reject
 
-# 番茄小说去广告规则集
 payload:
+# 番茄小说去广告规则集
   - DOMAIN,p6-ad-sign.byteimg.com
   - DOMAIN,p9-ad-sign.byteimg.com
   - DOMAIN-SUFFIX,byteimg.com
@@ -25,6 +25,9 @@ payload:
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN,api.iegadp.qq.com
   - DOMAIN,sf3-ttcdn-tos.pstatp.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN,gurd.snssdk.com
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,byteorge.com
   - DOMAIN-SUFFIX,bytegoofy.com
