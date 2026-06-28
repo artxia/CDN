@@ -1,0 +1,41 @@
+! ======= 番茄小说去广告 =======
+
+! 1. 基础广告域名精简拦截（支持 AdGuard 语法的通配符）
+||dig.bdurl.net^
+||p*-ad-sign.byteimg.com^
+||i.snssdk.com^$important
+||i-lq.snssdk.com^$important
+||activity-ag.awemeughun.com^$important
+||tnc3-alisc*.snssdk.com^
+||security-lq.snssdk.com^$important
+||mcs.snssdk.com^$important
+||is.snssdk.com^$important
+||msync-im1-vip6-std.easemob.com^$important
+||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+||api.iegadp.qq.com^$important
+||sf*-ttcdn-tos.pstatp.com^
+
+! 2. 核心广告穿透与重写替代拦截
+||pangolin-sdk-toutiao.com^$important
+||pglstatp-toutiao.com^$important
+||pstatp.com^$important
+||gurd.snssdk.com^$important
+
+! 3. 各种头条系/西瓜视频通配拦截
+||v*-novelapp.ixigua.com^
+||v*-default.ixigua.com^
+||*.novelapp.ixigua.com^
+||*.default.ixigua.com^
+
+! 4. 字节跳动通用广告域屏蔽与白名单修复
+||zijieapi.com^
+||polaris*-normal-lq.zijieapi.com^
+||byteorge.com^
+||bytegoofy.com^
+||bytedance.com^
+! 🟢 必须前置放行番茄小说的正常功能域名，防止被上面的 zijieapi.com 整个后缀误杀
+@@||imapi3-normal-lf.zijieapi.com^
+
+! 5. v3.1 补充：外部拼多多唤起与番茄专用视频流广告
+||adim.pinduoduo.com^$important
+||*.fqnovelvod.com^$important
