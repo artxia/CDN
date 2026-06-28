@@ -17,9 +17,9 @@ payload:
   - DOMAIN,is.snssdk.com
   - DOMAIN,v6-novelapp.ixigua.com
   
-  # 原 DOMAIN,*格式 改为 Mihomo 支持的通配符格式 (注: 规则集内部通配符不带 DOMAIN 前缀)
-  - '*.novelapp.ixigua.com'
-  - '*.default.ixigua.com'
+  # 原 DOMAIN,*格式 改为 Mihomo 支持的通配符格式 (注: 规则集内部通配符使用 DOMAIN-WILDCARD 前缀)
+  - DOMAIN-WILDCARD,*.novelapp.ixigua.com
+  - DOMAIN-WILDCARD,*.default.ixigua.com
   
   - DOMAIN,msync-im1-vip6-std.easemob.com
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
