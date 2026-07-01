@@ -31,3 +31,5 @@ payload:
 #  - DOMAIN-SUFFIX,credit.linux.do
 # iptv
   - DOMAIN-SUFFIX,garyshare.sharewithyou.dpdns.org
+# zenmux
+  - DOMAIN-SUFFIX,zenmux.ai
