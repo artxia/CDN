@@ -13,6 +13,9 @@ payload:
   - DOMAIN-SUFFIX,www.you.com
   - DOMAIN-SUFFIX,www.right.com.cn
   - DOMAIN-SUFFIX,www.52pojie.cn
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-challenges.com
+  - DOMAIN-SUFFIX,turnstile.cloudflare.com
 #  - DOMAIN-KEYWORD,telegram
 #  - IP-CIDR,109.239.140.0/24
 #  - IP-CIDR,149.154.160.0/20
