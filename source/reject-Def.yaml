@@ -31,7 +31,7 @@ payload:
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,byteorge.com
   - DOMAIN-SUFFIX,bytegoofy.com
-  - DOMAIN-SUFFIX,bytedance.com
+  # - DOMAIN-SUFFIX,bytedance.com
   - IP-CIDR,49.71.37.101/32
   - IP-CIDR,117.71.105.23/32
   - IP-CIDR,218.94.207.205/32
