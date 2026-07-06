@@ -8,7 +8,7 @@ payload:
   - DOMAIN,i.snssdk.com
   - DOMAIN,i-lq.snssdk.com
   - DOMAIN,dig.bdurl.net
-  - DOMAIN-KEYWORD,zijieapi
+  # - DOMAIN-KEYWORD,zijieapi
   - DOMAIN,activity-ag.awemeughun.com
   - DOMAIN,mcs.snssdk.com
   - DOMAIN,tnc3-alisc1.snssdk.com
