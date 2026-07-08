@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,cloudflare-challenges.com
   - DOMAIN-SUFFIX,turnstile.cloudflare.com
+  - DOMAIN-SUFFIX,fpnpmcdn.net
 #  - DOMAIN-KEYWORD,telegram
 #  - IP-CIDR,109.239.140.0/24
 #  - IP-CIDR,149.154.160.0/20
