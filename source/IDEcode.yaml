@@ -28,7 +28,7 @@ payload:
   - DOMAIN-SUFFIX,textnow.com
   - DOMAIN-SUFFIX,textnow.me
 # linuxdo
-#  - DOMAIN-SUFFIX,cdk.linux.do
+  - DOMAIN-SUFFIX,cdk.linux.do
 #  - DOMAIN-SUFFIX,credit.linux.do
 # iptv
   - DOMAIN-SUFFIX,garyshare.sharewithyou.dpdns.org
