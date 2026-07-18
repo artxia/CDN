@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,routogether.top
   - DOMAIN-SUFFIX,gtest.emby.to
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,test-fast.windhub.cc
 
   - IP-CIDR,154.17.231.24/20
   - IP-CIDR,154.12.51.165/20
