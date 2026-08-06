@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,edu.berlin
   - DOMAIN-SUFFIX,freemodel.dev
   - DOMAIN-SUFFIX,oops.asia
-  - DOMAIN-SUFFIX,chybenzun.top
+  # - DOMAIN-SUFFIX,chybenzun.top
   - DOMAIN-SUFFIX,cngpt.net
   - DOMAIN-SUFFIX,abrdns.com
   - DOMAIN-SUFFIX,sharedchat.cc
