@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,api.fpjs.io
   - DOMAIN-SUFFIX,0ait.com
   - DOMAIN-SUFFIX,agentrouter.org
+  - DOMAIN-SUFFIX,game.placegame.cn
 #  - DOMAIN-KEYWORD,telegram
 #  - IP-CIDR,109.239.140.0/24
 #  - IP-CIDR,149.154.160.0/20
