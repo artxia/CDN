@@ -21,6 +21,9 @@ payload:
   - DOMAIN-SUFFIX,0ait.com
   - DOMAIN-SUFFIX,agentrouter.org
   - DOMAIN-SUFFIX,game.placegame.cn
+  - DOMAIN-SUFFIX,cart-intl.alibabacloud.com
+  - DOMAIN-SUFFIX,console.alibabacloud.com
+  
 #  - DOMAIN-KEYWORD,telegram
 #  - IP-CIDR,109.239.140.0/24
 #  - IP-CIDR,149.154.160.0/20
