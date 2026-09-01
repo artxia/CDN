@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,game.placegame.cn
   - DOMAIN-SUFFIX,cart-intl.alibabacloud.com
   - DOMAIN-SUFFIX,console.alibabacloud.com
+  - DOMAIN-SUFFIX,linux.sb
   
 #  - DOMAIN-KEYWORD,telegram
 #  - IP-CIDR,109.239.140.0/24
