@@ -39,3 +39,6 @@ payload:
   - DOMAIN-SUFFIX,i.imgur.com
 # crypto
   - DOMAIN-SUFFIX,ave.ai
+# Spotube
+  - DOMAIN-SUFFIX,metabrainz.org
+  - DOMAIN-SUFFIX,listenbrainz.org
