@@ -23,9 +23,6 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,test-fast.windhub.cc
   - DOMAIN-SUFFIX,sub.jsysubtoken.com
-  - DOMAIN-SUFFIX,metabrainz.org
-  - DOMAIN-SUFFIX,listenbrainz.org
-  
 
   - IP-CIDR,154.17.231.24/20
   - IP-CIDR,154.12.51.165/20
