@@ -1,10 +1,17 @@
-# NAME: Default
+# NAME: Default 国外流量
 
 payload:
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,www.notion.so
   - DOMAIN-KEYWORD,notion
 
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.net
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,surfsharkdns.com
+  - DOMAIN-SUFFIX,ipleak.net
+  
+  - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,www.v2ex.com
   - DOMAIN-SUFFIX,imagility.io
