@@ -1,4 +1,4 @@
-# NAME: Default
+# NAME: DirectDef 直接连接
 
 payload:
   - DOMAIN-SUFFIX,265.com
@@ -8,9 +8,15 @@ payload:
   - DOMAIN,ru-ttk-1.edu.berlin
   - DOMAIN,bwg-500m.edu.berlin
   - DOMAIN-SUFFIX,edu.berlin
+  - DOMAIN-SUFFIX,dmit-500g.bit.edu.kg
   - DOMAIN-SUFFIX,freemodel.dev
   - DOMAIN-SUFFIX,oops.asia
   # - DOMAIN-SUFFIX,chybenzun.top
+  
+  - DOMAIN-SUFFIX,hub.oaifree.com
+  - DOMAIN-SUFFIX,hybgzs.com
+  - DOMAIN-SUFFIX,muyuan.do
+
   - DOMAIN-SUFFIX,cngpt.net
   - DOMAIN-SUFFIX,abrdns.com
   - DOMAIN-SUFFIX,sharedchat.cc
