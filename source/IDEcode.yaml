@@ -1,4 +1,4 @@
-# NAME: IDE 工具
+# NAME: IDE 工具 出口落地
 
 payload:
 # Cursor
@@ -33,6 +33,7 @@ payload:
 #  - DOMAIN-SUFFIX,credit.linux.do
 # iptv
   - DOMAIN-SUFFIX,garyshare.sharewithyou.dpdns.org
+  - DOMAIN-SUFFIX,play.google.com
 # zenmux
   - DOMAIN-SUFFIX,zenmux.ai
 # imgur
@@ -42,3 +43,6 @@ payload:
 # Spotube
   - DOMAIN-SUFFIX,metabrainz.org
   - DOMAIN-SUFFIX,listenbrainz.org
+# IP test
+  - DOMAIN-SUFFIX,ip-api.com,
+  - DOMAIN-SUFFIX,ping0.cc
