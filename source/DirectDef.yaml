@@ -33,6 +33,8 @@ payload:
   - DOMAIN-SUFFIX,test-fast.windhub.cc
   - DOMAIN-SUFFIX,sub.jsysubtoken.com
   - DOMAIN-SUFFIX,gw.luketv.tv
+  - DOMAIN-SUFFIX,chat.luketv.tv
+  - DOMAIN-SUFFIX,tbvideo.alicdn.com
 
   - IP-CIDR,154.17.231.24/20
   - IP-CIDR,154.12.51.165/20
