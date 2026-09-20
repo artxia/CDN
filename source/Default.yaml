@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,console.alibabacloud.com
   - DOMAIN-SUFFIX,linux.sb
   - DOMAIN-SUFFIX,anyrouter.top
+  - DOMAIN-SUFFIX,ai.hyper.nyc.mn
   
 #  - DOMAIN-KEYWORD,telegram
 #  - IP-CIDR,109.239.140.0/24
