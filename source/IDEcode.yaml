@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,account.alibabacloud.com
 # AugmentCode
   - DOMAIN-SUFFIX,augmentcode.com
+# Muse from Meta
+  - DOMAIN-SUFFIX,muse.ai
 # textnow
   - DOMAIN-SUFFIX,textnow.com
   - DOMAIN-SUFFIX,textnow.me
