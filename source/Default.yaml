@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,linux.sb
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,ai.hyper.nyc.mn
+  - DOMAIN-SUFFIX,pincong.rocks
   
 #  - DOMAIN-KEYWORD,telegram
 #  - IP-CIDR,109.239.140.0/24
